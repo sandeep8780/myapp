@@ -137,80 +137,10 @@ const Portfolio = () => {
     }
   ];
 
-  // Experience data with enhanced details
-  const experiences = [
-    {
-      title: "SDE",
-      company: "Accio JOb.",
-      duration: "October 2024 - Present",
-      location: "Vadodara, India",
-      achievements: [
-        "Led a team of 5 developers to build a scalable e-commerce platform serving 50K+ users",
-        "Implemented microservices architecture reducing API response time by 40%",
-        "Introduced CI/CD pipeline reducing deployment time from 2 hours to 15 minutes",
-        "Mentored 3 junior developers and conducted technical interviews"
-      ],
-      technologies: ["Java", "Spring Boot", "React", "MongoDB"]
-    },
-  ];
+ 
 
   // Education data with achievements
-  const education = [
-    {
-      degree: "B.Sc in Computer Science",
-      institution: "University of Technology",
-      year: "2017 - 2021",
-      description: "Graduated with honors. Specialized in Web Development and Data Structures.",
-      achievements: [
-        "Gold Medalist in Data Structures and Algorithms",
-        "Published research paper on 'Optimizing Search Algorithms'",
-        "Lead organizer of annual coding competition with 200+ participants"
-      ]
-    }
-  ];
 
-  // Projects data with vertical layout
-  const projects = [
-    {
-      name: "E-commerce Platform",
-      description: "Full-stack e-commerce application with payment integration and inventory management",
-      technologies: "React, Node.js, MongoDB, Stripe API, Redis",
-      link: "https://github.com/indrakishore/ecommerce",
-      features: [
-        "Product catalog with filters and search",
-        "Shopping cart and checkout process",
-        "User authentication and order history",
-        "Admin dashboard for inventory management"
-      ],
-      icon: "🛒"
-    },
-    {
-      name: "Task Management App",
-      description: "Collaborative task management tool with real-time updates and team collaboration",
-      technologies: "React, Firebase, Material UI, WebSockets",
-      link: "https://github.com/indrakishore/task-manager",
-      features: [
-        "Real-time task updates across devices",
-        "Team collaboration with role-based access",
-        "Drag-and-drop interface",
-        "Progress tracking and reporting"
-      ],
-      icon: "✅"
-    },
-    {
-      name: "Weather Dashboard",
-      description: "Weather application with 5-day forecast, historical data, and location search",
-      technologies: "React, OpenWeather API, Chart.js, Geolocation API",
-      link: "https://github.com/indrakishore/weather-app",
-      features: [
-        "Interactive weather maps",
-        "5-day forecast with charts",
-        "Location-based weather predictions",
-        "Favorite locations storage"
-      ],
-      icon: "⛅"
-    }
-  ];
 
   // Achievements data
   const achievements = [
