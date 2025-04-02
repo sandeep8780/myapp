@@ -12,7 +12,7 @@ const Portfolio = () => {
     summary: "Experienced Software Developer skilled in Java, Spring Boot, Flutter, and MERN stack. Expertise in building scalable backend systems, cross-platform mobile apps, and full-stack web applications. Passionate about clean code, performance optimization, and problem-solving.",
     tagline: "Web Developer | Problem Solver | Android Developer",
     backgroundImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    resumeLink: "https://drive.google.com/file/d/1Fvu9m3-LBTE8X4C2CdeGqEgKH-jqTp15/view?usp=sharing" // Add your resume link here
+    resumeLink: "https://drive.google.com/file/d/13t3xU_XXDSBnJsAn-0gbVQXP4A_oFVNy/view?usp=sharing" // Add your resume link here
   };
 
   // Coding profiles
